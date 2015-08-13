@@ -1,0 +1,22 @@
+{
+    "name":         "ruslan-polutsygan/prophecy-assert-callback",
+    "description":  "",
+    "keywords":     ["tests", "prophecy", "phpunit"],
+    "homepage":     "https://github.com/ruslan-polutsygan/prophecy-assert-callback",
+    "type":         "library",
+    "license":      "MIT",
+    "authors":      [
+        {
+            "name":      "Ruslan Polutsygan",
+            "email":     "ruslan.polutsygan@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "*"
+    },
+    "autoload": {
+        "psr-0": {
+            "RP\\": "src/"
+        }
+    }
+}
