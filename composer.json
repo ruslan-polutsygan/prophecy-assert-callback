@@ -1,8 +1,8 @@
 {
-    "name":         "ruslan-polutsygan/prophecy-assert-callback",
+    "name":         "ruslan-polutsygan/prophecy-extension",
     "description":  "",
     "keywords":     ["tests", "prophecy", "phpunit"],
-    "homepage":     "https://github.com/ruslan-polutsygan/prophecy-assert-callback",
+    "homepage":     "https://github.com/ruslan-polutsygan/prophecy-extension",
     "type":         "library",
     "license":      "MIT",
     "authors":      [
